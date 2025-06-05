@@ -5,3 +5,4 @@ matplotlib
 scikit-learn
 tensorflow
 plotly
+python-3.11
