@@ -1,8 +1,7 @@
-numpy
-streamlit
-streamlit_drawable_canvas
-matplotlib
-scikit-learn
-tensorflow
-plotly
+numpy==2.2.6
+streamlit==1.45.1
+streamlit_drawable_canvas==0.9.3
+matplotlib==3.10.3
+scikit-learn==1.6.1
+tensorflow==2.16.1
 python-3.11
